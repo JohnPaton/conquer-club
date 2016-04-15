@@ -4,7 +4,7 @@ from reports import *
 def main():
     print('Conquer Club: Extra Analytics')
     print('Enter a username for their elimination report,\n'+
-          'or enter "Shens" for the whole Shenannigans group:')
+          'or enter "Shens" for the whole Shenanigans group:')
 
     u = input();
     
