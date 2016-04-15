@@ -49,7 +49,7 @@ def killsReport(user,priority=[]):
     print('K/D: %.2f' % kd)
 
 
-# shensReport: Kills report on Shenannigans members
+# shensReport: Kills report on Shenanigans members
 def shensReport():
     shens = ['BigMoney!','ChefBoyRDave','GenghisConnor','tfroe','HeavenlyHalo',
              'PCStalder','natehildy','Fenzik']
